@@ -1,0 +1,9 @@
+#!/usr/bin/env bash
+#goood girl
+i=o
+while true
+do
+echo "To infinity and beyond"
+((++i))
+sleep 2
+done
